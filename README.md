@@ -1,3 +1,35 @@
+# Talktionary
+
+    A desktop application designed to function as a talking dictionary. It allows users to enter a word and receive an audio explanation of its meaning, pronunciation, and usage. The application's goal is to provide a user-friendly interface that includes accurate and authoritative definitions from credible dictionaries and linguistic resources.
+
+![image](https://github.com/user-attachments/assets/9cedaeae-0ae7-4c95-9e84-7a6a8071e37c)
+
+![image](https://github.com/user-attachments/assets/fad2ac74-1fa2-4694-a9c2-6bad085c957f)
+
+![image](https://github.com/user-attachments/assets/3f7aa283-f2ab-42e1-b7db-04195ae1a8ed)
+
+![image](https://github.com/user-attachments/assets/6a6e4e1b-d470-40ea-b3c5-fd5e7588a0df)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 LIST OF WORDS:
 
   "bae": ["A term of endearment, usually for a romantic partner.", "I can't wait to see my bae this weekend."],
