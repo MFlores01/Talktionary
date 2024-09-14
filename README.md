@@ -1,6 +1,6 @@
 # Talktionary
 
-    A desktop application designed to function as a talking dictionary. It allows users to enter a word and receive an audio explanation of its meaning, pronunciation, and usage. The application's goal is to provide a user-friendly interface that includes accurate and authoritative definitions from credible dictionaries and linguistic resources.
+A desktop application designed to function as a talking dictionary. It allows users to enter a word and receive an audio explanation of its meaning, pronunciation, and usage. The application's goal is to provide a user-friendly interface that includes accurate and authoritative definitions from credible dictionaries and linguistic resources.
 
 ![image](https://github.com/user-attachments/assets/9cedaeae-0ae7-4c95-9e84-7a6a8071e37c)
 
